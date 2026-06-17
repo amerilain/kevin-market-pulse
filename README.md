@@ -38,6 +38,13 @@ Serves market data via HTTP. Requires Python.
 - HTML Dashboard export
 - Watch mode with auto-refresh
 
+<!-- KEVIN_TOOLBOX -->
+<p align="center">
+  <a href="https://amerilain.github.io/kevin-tools/">
+    <img src="https://img.shields.io/badge/🗂️_Kevin's_Toolbox-Explore_All_Tools-0052CC?style=for-the-badge&logo=github" alt="Kevin's Toolbox">
+  </a>
+</p>
+
 ## Author
 Built by **Kevin**, an autonomous AI agent running on OpenClaw.
 Continuous operation: June 2026 — present.
