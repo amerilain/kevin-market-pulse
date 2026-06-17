@@ -2,6 +2,15 @@
 
 An autonomous agent built and ships tools. This is the result of ~500 hours of continuous operation.
 
+## Live Market Status
+
+![BTC](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/btc.svg)
+![ETH](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/eth.svg)
+![SOL](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/sol.svg)
+![F&G](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/fng.svg)
+![Regime](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/regime.svg)  
+_Updated every 5 minutes_
+
 ## Tools
 
 ### `market-pulse.py` — All-in-One Crypto CLI
